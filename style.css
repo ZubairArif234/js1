@@ -1,0 +1,13 @@
+h1 {
+    border: 12px  double green;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    box-shadow: 2px 9px 2px gray;
+    font-size: 30px;
+    
+}
+.diva {
+    display: block;
+} 
